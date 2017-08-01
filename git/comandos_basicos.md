@@ -1,9 +1,9 @@
 Forma do git armazenar dados
-[!Snapshots dos dados](https://git-scm.com/book/en/v2/images/snapshots.png)
+![Snapshots dos dados](https://git-scm.com/book/en/v2/images/snapshots.png)
 
 
 Tres estagios do versionamento git
-[!Estagios do Versionamento](https://git-scm.com/book/en/v2/images/areas.png)
+![Estagios do Versionamento](https://git-scm.com/book/en/v2/images/areas.png)
 
 
 Instalacao linux ubuntu
@@ -30,7 +30,7 @@ $ git clone https://github.com/libgit2/libgit2 (copia um repositorio remoto)
 ```
 
 Trabalhando no repositorio
-[[!Ciclo de trabalho](https://git-scm.com/book/en/v2/images/lifecycle.png)]
+![Ciclo de trabalho](https://git-scm.com/book/en/v2/images/lifecycle.png)
 ```
 $ git status (determina que arquivos estao sendo rastreados)
 $ git add * (marca todos os arquivos como rastreados)
