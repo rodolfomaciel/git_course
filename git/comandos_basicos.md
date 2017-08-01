@@ -30,7 +30,7 @@ $ git clone https://github.com/libgit2/libgit2 (copia um repositorio remoto)
 ```
 
 Trabalhando no repositorio
-[!Ciclo de trabalho](https://git-scm.com/book/en/v2/images/lifecycle.png)
+[[!Ciclo de trabalho](https://git-scm.com/book/en/v2/images/lifecycle.png)]
 ```
 $ git status (determina que arquivos estao sendo rastreados)
 $ git add * (marca todos os arquivos como rastreados)
