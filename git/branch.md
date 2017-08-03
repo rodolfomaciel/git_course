@@ -33,25 +33,25 @@ Depois do git merge não há mais necessidade do ramo mesclado, por isso você f
 $ git branch -d <nome do ramo>
 ```
 
-###Resolvendo conflitos
+### Resolvendo conflitos
 Se por acaso houver algum conflito de mesclagem elas são exibidas com o comando:
 ```
 $ git status
 ```
 
-###Exibir branchs mesclados
+### Exibir branchs mesclados
 Para exibir os ramos que já foram mesclados com o principal faça:
 ```
 $ git branch --merged
 ```
 
-###Outras opções de branch
+### Outras opções de branch
 Visualizar os ultimos commits em cada branch
 ```
 $ git branch -v
 ```
 
-Ramos usados em desenvolvimento de projetos
+Ramos que podem ser usados em desenvolvimento de projetos
 - master
 - develop
 - topic
